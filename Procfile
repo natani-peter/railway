@@ -1,1 +1,1 @@
-web: gunicorn LEARN_DJANGO.wsgi --log-file-
+web: gunicorn LEARN_DJANGO.wsgi --log-file -
