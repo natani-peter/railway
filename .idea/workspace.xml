@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e98b0c-9d46-4fd8-81d7-c44ff1a9f828" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_DJANGO/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_DJANGO/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,7 @@
       <workItem from="1701983152123" duration="17825000" />
       <workItem from="1702096662047" duration="1101000" />
       <workItem from="1702268612792" duration="23616000" />
-      <workItem from="1702317889864" duration="3428000" />
+      <workItem from="1702317889864" duration="4353000" />
     </task>
     <servers />
   </component>
