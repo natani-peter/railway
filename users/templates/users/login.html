@@ -1,0 +1,26 @@
+{% extends "learning_logs/base.html" %}
+{% load bootstrap3 %}
+
+{% block title %}
+LOG IN
+{% endblock %}
+{% block header %}
+<h3>Log Into Your Account</h3>
+{% endblock %}
+
+{% block content %}
+{% if form.errors %}
+<p> Invalid Credentials</p>
+{% endif %}
+    <form action="{% url 'users:login' %}" method="post" class="form">
+
+    {% csrf_token %}
+    {% bootstrap_form form %}
+        {% buttons %}
+             <button name="submit" class="btn btn-primary">LOG IN</button>
+        {% endbuttons %}
+
+    <input type="hidden" name="next" value="{% url 'learning_logs:topics' %}">
+
+    </form>
+{% endblock %}

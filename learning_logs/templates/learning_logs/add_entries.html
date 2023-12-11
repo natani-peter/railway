@@ -1,0 +1,23 @@
+{% extends "learning_logs/base.html" %}
+{% load bootstrap3 %}
+
+{% block title %}
+ADD ENTRIES
+{% endblock %}
+{% block header %}
+<h3>
+ADD ENTRIES FOR <a href="{% url 'learning_logs:topic' c_topic.id %}">{{ c_topic.text }}</a>
+</h3>
+{% endblock %}
+
+{% block content %}
+
+    <form action="{% url 'learning_logs:add_new_entry' c_topic.id %}" method="post" class="form">
+    {% csrf_token %}
+   {% bootstrap_form form %}
+{% buttons %}
+         <button name="submit" class="btn btn-primary">ADD ENTRY</button>
+    {% endbuttons %}
+    </form>
+
+{% endblock %}
