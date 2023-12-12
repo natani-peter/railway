@@ -1,1 +1,0 @@
-web: gunicorn LEARN_DJANGO.wsgi --log-file -

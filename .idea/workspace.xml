@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e98b0c-9d46-4fd8-81d7-c44ff1a9f828" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DJANGO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DJANGO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_DJANGO/LEARN_DJANGO/static/placeholder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/placeholder.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LEARN_DJANGO/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_DJANGO/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_DJANGO/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_DJANGO/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +58,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PERSONAL\DJANGO\LOGS" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="LEARNING LOG" type="Python.DjangoServer" factoryName="Django server">
       <module name="DJANGO" />
@@ -99,7 +116,9 @@
       <workItem from="1701983152123" duration="17825000" />
       <workItem from="1702096662047" duration="1101000" />
       <workItem from="1702268612792" duration="23616000" />
-      <workItem from="1702317889864" duration="4353000" />
+      <workItem from="1702317889864" duration="4979000" />
+      <workItem from="1702357120306" duration="522000" />
+      <workItem from="1702357698654" duration="2045000" />
     </task>
     <servers />
   </component>

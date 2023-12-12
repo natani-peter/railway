@@ -7,8 +7,7 @@ SECRET_KEY = 'django-insecure-$_l@1cf^y8i6zd8zzeumi#$(k0)6xeo^%9&9yhaq8tf@n+p_e7
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost',
-                 'web-production-ffda.up.railway.app']
+ALLOWED_HOSTS = ["*"]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
